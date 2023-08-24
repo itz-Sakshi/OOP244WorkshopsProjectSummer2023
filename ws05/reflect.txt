@@ -1,0 +1,13 @@
+*****************************************************************************
+                               Reflection
+Full Name  :  Sakshi Sakshi
+Student ID#:  102602222
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+
+While doing this workshop, I learned about topics such as helper functions, operator overloading in classes, and how to use public methods in a class to enable a standalone helper function which has been defined outside the class, to access the private members of a class. In this way, helper functions can be used as a valuable tool in simplifying complex operations and organizing and modularizing our code, ultimately, making it easier to understand and maintain.
+Similarly, by using overloading operators, we can provide custom implementations to our objects which in turn, helps in writing more expressive and concise code, making it easier to understand and work with objects of our own classes in a more natural way. We can use common mathematic symbols like ‘+’, ‘=’, and ‘-‘ to perform different arithmetic operations on objects. Moreover, this workshop strengthened my understanding of the concepts of constructors and their overloading.

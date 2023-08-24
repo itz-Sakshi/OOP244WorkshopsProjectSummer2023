@@ -1,0 +1,14 @@
+In line number 1651 of your output:
+The output should be:
+Population of Canada: 35151726
+                              ^
+But your output is: 
+Population of Canada: 35151726==184181== 
+                              ^
+
+Unmatched character details:
+The character in column 31 is supposed to be:
+  [Empty Line] ASCII code(0)
+but you printed
+  [=] ASCII code(61)
+

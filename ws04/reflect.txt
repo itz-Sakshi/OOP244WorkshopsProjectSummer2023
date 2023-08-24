@@ -1,0 +1,14 @@
+REFLECTION
+/*
+Full Name : Sakshi Sakshi
+Student ID# : 112602222
+Email : ssakshi7@myseneca.ca
+Date : 11 - 06 - 2023
+Authenticity Declaration :
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+***********************************************************************/
+
+In this workshop, I learnt many new concepts such as Constructors, destructors and the current object in C++ programming language.
+I learnt how we can declare and define an instance of a class by using different overloaded constructor functions each having its own validation and implementation. This concept helped me to understand the overloading of functions topic even more clearly.
+While, destructors helped me to understand the importance of freeing up dynamically allocated memory to a class when the object goes out of scope.
+Whereas, I even understood how to use the current object to manipulate and modify an object of a class.

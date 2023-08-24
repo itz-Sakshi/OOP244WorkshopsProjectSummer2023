@@ -1,0 +1,15 @@
+*****************************************************************************
+                               Reflection
+Full Name  :  Sakshi Sakshi
+Student ID#:  102602222
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely my own creation.
+*****************************************************************************
+
+
+
+In this workshop, I learned one of the most important concepts in Object Oriented Programming, namely Inheritance. I learned how to declare a child-class that has been derived from a parent class. Inheritance allows a derived class to inherit the data members and member functions of a parent class. In this workshop, the Truck class was derived from MotorVehicle class.  
+I also learned how to overload insertion and exertion operators for input and output purposes for objects directly. Furthermore, I learned how to use a custom constructor of the parent class intentionally for a derived class object construction.  Moreover, this work helped me to get even more familiar with the previous concepts I learned in OOP244 such as constructors, how to modify the default functionality of cin and cout objects to achieve desired output on screen, and function overloading. I also learned how to use the scope resolution operator to access a shadowed member function that is defined in a base class.

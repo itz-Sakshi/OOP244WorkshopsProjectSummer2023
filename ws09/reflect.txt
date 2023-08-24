@@ -1,0 +1,25 @@
+*****************************************************************************
+                               Reflection
+Full Name  :  Sakshi Sakshi
+Student ID#:  102602222
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+
+
+During this workshop, I learned some important things about C++ programming. I worked with two classes called `Text` and `HtmlText`, which helped me understand how to manage memory properly and use certain symbols in C++.
+
+One concept that stood out was the "rule of three." It basically taught me how to take care of memory when using dynamic resources in classes. I had to create a copy constructor, a copy assignment operator, and a destructor to avoid memory issues and ensure everything works well when copying or deleting objects.
+
+Another thing I learned was about dynamic memory allocation. It's like getting a special space to store things while the program is running. I used this technique to read a file and save its contents in memory.
+
+In addition, I figured out how to use the `<<` symbol in a new way. This allowed me to easily show the content of the `Text` objects on the screen.
+
+For the project, I went even deeper into these concepts. I created more complex classes and used inheritance to organize them. I also learned how to work with files and make text look like HTML code.
+
+The hardest part was dealing with some special characters during HTML conversion. I had to be careful with symbols like `<`, `>`, and newline to make sure everything looked good in the HTML output.
+
+Overall, I feel more confident now in programming with C++ and managing resources effectively. It was a challenging but rewarding experience.

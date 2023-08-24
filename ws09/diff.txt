@@ -1,0 +1,14 @@
+In line number 7 of your output:
+The output should be:
+*abc
+^
+But your output is: 
+==224135== Conditional jump or move depends on uninitialised value(s)
+^
+
+Unmatched character details:
+The character in column 1 is supposed to be:
+  [*] ASCII code(42)
+but you printed
+  [=] ASCII code(61)
+

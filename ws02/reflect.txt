@@ -1,0 +1,17 @@
+Reflection
+
+
+*****************************************************************************
+                               Reflection
+Full Name  :  Sakshi Sakshi
+Student ID#:  102602222
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+
+In this workshop, I learned many new interesting and useful concepts such as reference variables, allocation of dynamic memory, and function overloading. Passing variables by reference is an alternative way to passing by pointer variables in functions in which we want to modify the value of arguments, or we want to save memory space. Similarly, allocating dynamic memory to variables or an array of variables is another way of saving memory space. However, while working with dynamic memory, we should always remember to free it explicitly at the end when we no longer need the variables. Because if we fail to do so, there is no point in using dynamic memory. Function overloading was also a quite an interesting topic for me as now I have the power to declare various functions in my code having the same name which means I don’t have to worry about declaring a unique name for every function I write. 
+The topic which I found a little confusing was reference variables because I confused their implementation with pointer variables. Therefore, while using them in functions such as ‘read’ and ‘load’, I faced some issues. However, after reading the error messages and reviewing the class notes, I was able to grasp the whole concept and understand the minor difference between pointers and reference variables and get rid of the issues.
+An in parameter is a parameter passed to a function by value only which means the function receives a copy of the parameter variable which is used by it without any modification of the variable itself whereas, an out parameter is a parameter passed to a function by reference variable or pointer which means the function can modify the value of the parameter and the changes will be reflected outside the function. According to me, in this workshop’s code, in the function “bool load(const char *fileName);”, ‘fileName’ can be arguably considered as an in parameter because it is a pointer to a const char array; therefore, the load function does not modify the contents of fileName. It allows the function to read the value of fileName, but any modifications made to fileName inside the function will not be accepted.

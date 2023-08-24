@@ -1,0 +1,22 @@
+*****************************************************************************
+                               Reflection
+Full Name  :  Sakshi Sakshi
+Student ID#:  102602222
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+
+During this workshop, I gained insights into the concept of friendship in object-oriented programming using C++. I discovered that by declaring one class as a friend of another, we grant the friend class access to all the members of the other class. However, it's crucial to exercise caution when using friendship, as it contradicts the fundamental principles of privacy and encapsulation in object-oriented programming.
+
+Additionally, I learned that friendship is neither reciprocal, transitive, nor exclusive. This means that just because class A is a friend of class B, it does not imply that class B is a friend of class A. Moreover, the friendship relationship does not extend between classes, so if class A is a friend of class B and class B is a friend of class C, it does not imply that class A is a friend of class C.
+
+Furthermore, the workshop delved into important concepts such as constructors, destructors, operator overloading, and memory management. These topics provided me with a comprehensive understanding of how to initialize objects, deallocate resources, redefine operators for custom behavior, and effectively manage memory in C++.
+
+Moreover, I was introduced to the 'fstream' library in C++, which opened up new possibilities for reading from and writing to text files using objects. This knowledge allowed me to harness the power of file input/output operations and integrate them seamlessly into my C++ programs.
+
+Additionally, the workshop covered the significance of copy constructors and copy assignment operators in resource management. These mechanisms ensure proper copying of objects and prevent multiple members of different objects from pointing to the same memory location, thus maintaining data integrity and avoiding unwanted side effects.
+
+Overall, the workshop provided a comprehensive exploration of friendship, constructors, destructors, operator overloading, memory management, file input/output operations, copy constructors, and copy assignment operators in C++.

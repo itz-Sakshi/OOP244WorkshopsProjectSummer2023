@@ -1,0 +1,14 @@
+In line number 22 of your output:
+The output should be:
+Shelf No: P123
+              ^
+But your output is: 
+Shelf No: P1234
+              ^
+
+Unmatched character details:
+The character in column 15 is supposed to be:
+  [Empty Line] ASCII code(0)
+but you printed
+  [4] ASCII code(52)
+
